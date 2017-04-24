@@ -6,11 +6,11 @@ The code stubs in your editor declare a _Solution_ class and a _main_ method. Co
 System.out.println("Hello, World.");
 System.out.println("Hello, Java.");
 ```
-## Input Format
+### Input Format
 You must print two lines of output:
 1. Print `Hello, World!` on the first line.
 2. Print `Hello, Java.` on the second line.
-## Sample Output
+### Sample Output
 ```
 Hello, World.
 Hello, Java.
