@@ -3,7 +3,7 @@ In this challenge, we test your knowledge of using _if-else_ conditional stateme
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c5/If-Then-Else-diagram.svg)
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Conditional_(computer_programming)).
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Conditional_(computer_programming))
 ### Task
 Given an integer, _n_, perform the following conditional actions:
 - If _n_ is odd, print `Weird`
