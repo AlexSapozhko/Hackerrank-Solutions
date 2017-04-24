@@ -1,6 +1,8 @@
 # Java If-Else
 In this challenge, we test your knowledge of using _if-else_ conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
 
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c5/If-Then-Else-diagram.svg)
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Conditional_(computer_programming)).
 ### Task
 Given an integer, _n_, perform the following conditional actions:
