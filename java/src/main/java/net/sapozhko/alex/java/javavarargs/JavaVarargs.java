@@ -10,7 +10,7 @@ public class JavaVarargs {
         for (int x : v) {
             System.out.print(x);
             sum += x;
-            if (x != v.length)
+            if (x != v[v.length - 1])
                 System.out.print("+");
         }
         System.out.println("=" + sum);
