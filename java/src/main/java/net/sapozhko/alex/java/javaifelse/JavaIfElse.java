@@ -17,12 +17,10 @@ public class JavaIfElse {
             if (n >= 2 && n <= 5 || n > 20) {
                 ans = "Not Weird";
             }
-
             if (n >= 6 && n <= 20) {
                 ans = "Weird";
             }
         }
-
         System.out.println(ans);
     }
 }
